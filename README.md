@@ -32,9 +32,6 @@ python churn_analysis.py     # creates all 11 charts in /images
 ```
 Or open `notebook/Customer_Churn_Analysis.ipynb` in Jupyter / VS Code / Colab.
 
-## Sample visualizations
-![Churn rate by contract](images/04_churn_rate_by_contract.png)
-![Correlation heatmap](images/06_correlation_heatmap.png)
 
 ## Data note
 The dataset is synthetically generated (`generate_data.py`) to match the same structure and
