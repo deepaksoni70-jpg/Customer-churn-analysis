@@ -31,10 +31,3 @@ python generate_data.py      # creates data/telecom_customer_churn.csv
 python churn_analysis.py     # creates all 11 charts in /images
 ```
 Or open `notebook/Customer_Churn_Analysis.ipynb` in Jupyter / VS Code / Colab.
-
-
-## Data note
-The dataset is synthetically generated (`generate_data.py`) to match the same structure and
-statistical patterns as the classic IBM Telco Customer Churn dataset — including the 38%
-month-to-month/<3-month-tenure churn insight. Swap in the original Kaggle CSV any time if
-you'd rather work off the real public dataset (same column names, drop-in compatible).
